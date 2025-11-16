@@ -1,6 +1,6 @@
 
 
-var num = Math.floor(Math.random() * 20) + 1;
+var num = Math.floor(Math.random() * 19) + 1;
 
 
 
@@ -29,4 +29,5 @@ $("#card2").wScratchPad({
 })
 
 ;
+
 
